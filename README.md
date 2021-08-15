@@ -1,4 +1,4 @@
-#RDX Society
+# RDX Society
 Society System for RedM Extended
 
 ## Requirements
